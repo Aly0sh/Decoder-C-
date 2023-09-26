@@ -1,0 +1,17 @@
+C:\Users\kubat\Desktop\C#\decoder\decoder\bin\Debug\net6.0-windows\decoder.exe
+C:\Users\kubat\Desktop\C#\decoder\decoder\bin\Debug\net6.0-windows\decoder.deps.json
+C:\Users\kubat\Desktop\C#\decoder\decoder\bin\Debug\net6.0-windows\decoder.runtimeconfig.json
+C:\Users\kubat\Desktop\C#\decoder\decoder\bin\Debug\net6.0-windows\decoder.dll
+C:\Users\kubat\Desktop\C#\decoder\decoder\bin\Debug\net6.0-windows\decoder.pdb
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.csproj.AssemblyReference.cache
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.Form1.resources
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.csproj.GenerateResource.cache
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.AssemblyInfoInputs.cache
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.AssemblyInfo.cs
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.csproj.CoreCompileInputs.cache
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.dll
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\refint\decoder.dll
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.pdb
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\decoder.genruntimeconfig.cache
+C:\Users\kubat\Desktop\C#\decoder\decoder\obj\Debug\net6.0-windows\ref\decoder.dll
